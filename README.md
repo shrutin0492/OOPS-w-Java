@@ -47,27 +47,27 @@ Programs as part of the Object Oriented Programming Structure with Java Laborato
     - *Description:* Using a user-defined package.
     - [proguserdefinedpackage.java](proguserdefinedpackage.java)
 
-12. (12i) **Interface_Variable**
+12. (11i) **Interface_Variable**
     - *Description:* Working with interface variables.
     - [Interfacevariable.java](Interfacevariable.java)
 
-13. (12ii) **Interface_Calculator**
+13. (11ii) **Interface_Calculator**
     - *Description:* Another interface example for a Calculator.
     - [Calculator.java](Calculator.java)
 
-14. (13i) **GUI_JTable**
+14. (12i) **GUI_JTable**
     - *Description:* Java Swing GUI example with JTable.
     - [JTableExamples.java](JTableExamples.java)
 
-15. (13ii) **GUI_Registration**
+15. (12ii) **GUI_Registration**
     - *Description:* Registration form GUI using Java Swing.
     - [Registration.java](Registration.java)
 
-16. (14i) **JDBC_CallableStatement**
+16. (13i) **JDBC_CallableStatement**
     - *Description:* Using JDBC CallableStatement.
     - [JDBCcallablestatement.java](JDBCcallablestatement.java)
 
-17. (14ii) **JDBC_DynamicStatement**
+17. (13ii) **JDBC_DynamicStatement**
     - *Description:* Dynamic JDBC statements.
     - [JDBCdynamicstatement.java](JDBCdynamicstatement.java)
 
