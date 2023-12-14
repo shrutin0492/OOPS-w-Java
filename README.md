@@ -39,35 +39,35 @@ Programs as part of the Object Oriented Programming Structure with Java Laborato
     - *Description:* Multi-threading examples.
     - [MultipleThread.java](MultipleThread.java)
 
-10i. **Packages_FileReader**
+10. (i) **Packages_FileReader**
     - *Description:* Using packages to read from a file.
     - [MyFileReader.java](MyFileReader.java)
 
-10ii. **Packages_UserDefinedPackage**
+10. (ii) **Packages_UserDefinedPackage**
     - *Description:* Using a user-defined package.
     - [proguserdefinedpackage.java](proguserdefinedpackage.java)
 
-11i. **Interface_Variable**
+11. (i) **Interface_Variable**
     - *Description:* Working with interface variables.
     - [Interfacevariable.java](Interfacevariable.java)
 
-11ii. **Interface_Calculator**
+11. (ii) **Interface_Calculator**
     - *Description:* Another interface example for a Calculator.
     - [Calculator.java](Calculator.java)
 
-12i. **GUI_JTable**
+12. (i) **GUI_JTable**
     - *Description:* Java Swing GUI example with JTable.
     - [JTableExamples.java](JTableExamples.java)
 
-12ii. **GUI_Registration**
+12. (ii) **GUI_Registration**
     - *Description:* Registration form GUI using Java Swing.
     - [Registration.java](Registration.java)
 
-13i. **JDBC_CallableStatement**
+13. (i) **JDBC_CallableStatement**
     - *Description:* Using JDBC CallableStatement.
     - [JDBCcallablestatement.java](JDBCcallablestatement.java)
 
-13ii. **JDBC_DynamicStatement**
+13. (ii) **JDBC_DynamicStatement**
     - *Description:* Dynamic JDBC statements.
     - [JDBCdynamicstatement.java](JDBCdynamicstatement.java)
 
